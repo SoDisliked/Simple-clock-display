@@ -1,0 +1,14 @@
+body {
+    background: white;
+}
+
+.clock{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translateX(-40%) translateY(-50%);
+    color: aqua;
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 7px;
+}
